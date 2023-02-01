@@ -9,13 +9,11 @@
 
 - 🤝 I’m looking for help with [Plas-Tech](https://github.com/SABO007/PLAS-TECH.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SABO007?tab=repositories](https://github.com/SABO007?tab=repositories)
-
-- 💬 Ask me about **Artificial Intelligence> Machine Learning**
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/SABO007?tab=repositories)
 
 - 📫 How to reach me **sashankharry@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rMCiOibORCwghaMKRD20B_doy3X6c2J5/view?usp=share_link](https://drive.google.com/file/d/1rMCiOibORCwghaMKRD20B_doy3X6c2J5/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rMCiOibORCwghaMKRD20B_doy3X6c2J5/view?usp=share_link)
 
 - ⚡ Fun fact **I am conditionally Loyal**
 
