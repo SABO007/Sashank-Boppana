@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sashank Boppana</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on a project **Farm Connect**
+- 🔭 I’m currently working on **Farm Connect**
 
 - 🌱 I’m currently learning **Flutter, Dart programming, Java Script**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Plas-Tech](https://github.com/SABO007/PLAS-TECH.git)
 
-- 👨‍💻 All of my projects are available at [Repo](https://github.com/SABO007?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repo-Github](https://github.com/SABO007?tab=repositories)
 
 - 📫 How to reach me **sashankharry@gmail.com**
 
@@ -20,8 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sabo007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabo007/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/e20cse207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/e20cse207" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sashankharry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sashankharry/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabo007&show_icons=true&locale=en&layout=compact" alt="sabo007" /></p>
