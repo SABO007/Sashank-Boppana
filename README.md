@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sashank Boppana</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Farm Connect**
+- 🔭 I’m currently working on a project named **Farm Connect**
 
 - 🌱 I’m currently learning **Flutter, Dart programming, Java Script**
 
