@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sashankharry@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rMCiOibORCwghaMKRD20B_doy3X6c2J5/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1rMCiOibORCwghaMKRD20B_doy3X6c2J5/view?usp=share_link](https://drive.google.com/file/d/1NrEpJGKEHdg10ZPlgNM-aWdkmqq07gMq/view?usp=sharing))
 
 - ⚡ Fun fact **I am conditionally Loyal**
 
